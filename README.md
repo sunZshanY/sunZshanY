@@ -28,17 +28,14 @@
 
 ---
 
-### 🛠️ 技术栈 / Tech Stack
+### 🛠️ 技术栈以及我经常使用的编译器(~~或者是一些奇奇怪怪的东西~~) / 
+Tech Stack and IDE OR Something Strange things
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=arch,apple,bash,c,cpp,clion,css,discord,django,elysia,flask,git,github,gmail,html,idea,java,js,linux,md,mint,neovim,nodejs,npm,obsidian,pycharm,python,qt,ts,vim,vscode,vue,webstorm,windows">
+     </a>
+</p>
 
 ---
 
