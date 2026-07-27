@@ -40,7 +40,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=arch,apple,clion,debian,haskell,idea,linux,mint,neovim,pycharm,vim,vscode,vue,ubuntu,webstorm,windows">
+        <img src="https://skillicons.dev/icons?i=arch,apple,clion,haskell,idea,linux,neovim,pycharm,vim,vscode,webstorm,windows">
      </a>
 </p>
 
