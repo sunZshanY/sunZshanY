@@ -21,8 +21,8 @@
 - Like play War Thunder & World Tank Of biltzs
 - **Mastered:** Python / Java / HTML
 - 🔭 **Learning :** Vue.js / Rust / C++ / Go / C# / Qt / PHP
-- 🌱 **12 Techonology stacks** 全栈开发中
-- 🎯 **The 2027 Overall goal:** AdventureX 2027 参赛
+- 🌱 **12 Techonology stacks** Full-stack development
+- 🎯 **The 2027 Overall goal:** Join the AdventureX 2027 
 - 📫 **Contact me:** 15157706990@163.com / 15157706990shanyu@gmail.com
 
 ---
