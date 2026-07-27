@@ -46,20 +46,6 @@
 
 ---
 
-### 🎮 Projects
-
-<p align="center">
-  <a href="https://github.com/sunZshanY/sunomia">
-    <img src="https://img.shields.io/badge/🐍%20贪吃蛇-Snake%20Game-brightgreen?style=for-the-badge&logo=github" alt="Snake Game">
-  </a>
-</p>
-
-<p align="center">
-  <samp>基于 HTML / CSS / JavaScript 的经典贪吃蛇游戏，支持键盘操控、分数统计与实时渲染。</samp>
-</p>
-
----
-
 ### 📷 Gallery
 
 <div align="center">
