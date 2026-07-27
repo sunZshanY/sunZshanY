@@ -31,7 +31,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,cs,css,git,html,java,js,md,nodejs,python,qt,rust,vue">
+        <img src="https://skillicons.dev/icons?i=cpp,cs,css,git,html,java,js,md,nodejs,python,qt,rust,vue">
      </a>
 </p>
 
@@ -55,6 +55,17 @@
 
 </div>
 
+<!-- GitHub 统计卡片 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunZshanY&show_icons=true&theme=tokyonight)
+
+<!-- 常用语言卡片 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunZshanY&layout=compact&theme=tokyonight)
+
+<!-- 连续提交天数 -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunZshanY&theme=tokyonight)
+
+<!-- 奖杯展示 -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=sunZshanY&theme=tokyonight&column=7)
 ---
 
 ### 👀 Profile Views
