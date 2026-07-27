@@ -1,33 +1,96 @@
-### Hi there 👋 I'm sunZshanY
+<div align="center">
 
-- 🔭 正在学习: Python / Java / Vue.js / Rust / C++ / Go / C# / Qt
-- 🌱 11 个技术栈全栈开发中
-- 🎯 2027 目标: AdventureX 2027 参赛
-- 📫 联系: [你的邮箱]
+# 👋 Hi there, I'm Omia Sun
 
-### 🛠️ 技术栈
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AADF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Java+%7C+HTML+%7C+Vue.js+%7C+Rust;12+Tech+Stacks+and+Growing;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+</div>
 
-<!-- GitHub 统计卡片 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight)
+<div align="center">
 
-<!-- 常用语言卡片 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight)
+[![Repo](https://img.shields.io/badge/📦%20仓库-sunomia-blue?style=for-the-badge&logo=github)](https://github.com/sunZshanY/sunomia)
+[![Profile](https://img.shields.io/badge/👤%20主页-sunZshanY-orange?style=for-the-badge&logo=github)](https://github.com/sunZshanY)
 
-<!-- 连续提交天数 -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=tokyonight)
+</div>
 
-<!-- 奖杯展示 -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=你的用户名&theme=tokyonight&column=7)
+---
 
-<!-- 贪吃蛇贡献动画 -->
-![Snake](https://raw.githubusercontent.com/你的用户名/你的用户名/output/snake.svg)
+### 📖 About Me
+
+- A maimaiDX player
+- Like play War Thunder & World Tank Of biltzs
+- **Mastered:** Python / Java / HTML
+- 🔭 **Learning :** Vue.js / Rust / C++ / Go / C# / Qt / PHP
+- 🌱 **12 Techonology stacks** 全栈开发中
+- 🎯 **The 2027 Overall goal:** AdventureX 2027 参赛
+- 📫 **Contact me:** 15157706990@163.com / 15157706990shanyu@gmail.com
+
+---
+
+### 🛠️  Techonology Stack
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,cs,css,git,html,java,js,md,nodejs,php,python,qt,rust,vue">
+     </a>
+</p>
+
+---
+### Commonly used System & IDE
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=arch,apple,clion,debian,haskell,idea,linux,mint,neovim,pycharm,vim,vscode,vue,ubuntu,webstorm,windows">
+     </a>
+</p>
+
+---
+
+### 🎮 Projects
+
+<p align="center">
+  <a href="https://github.com/sunZshanY/sunomia">
+    <img src="https://img.shields.io/badge/🐍%20贪吃蛇-Snake%20Game-brightgreen?style=for-the-badge&logo=github" alt="Snake Game">
+  </a>
+</p>
+
+<p align="center">
+  <samp>基于 HTML / CSS / JavaScript 的经典贪吃蛇游戏，支持键盘操控、分数统计与实时渲染。</samp>
+</p>
+
+---
+
+### 📷 Gallery
+
+<div align="center">
+
+<img src="images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260718130859_188_33.jpg" width="400" alt="Screenshot 1" />
+<img src="images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260718130903_189_33.jpg" width="400" alt="Screenshot 2" />
+
+</div>
+
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunZshanY/sunomia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunZshanY/sunomia/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sunZshanY/sunomia/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+### 👀 Profile Views
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunZshanY&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Omia&color=blue&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Omia?style=social)
+
+</div>
