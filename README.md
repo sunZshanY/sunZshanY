@@ -15,20 +15,19 @@
 
 ---
 
-### 📖 关于我 / About Me
+### 📖 About Me
 
-- ~~一名舞萌吃~~、喜欢看Salt大战拉兹。。。。。
-- 恭喜舞萌W2喵~~~~~~！！！！！
-- 爱玩战雷（嗯对新手）、还有坦克世界闪电战。。。。
-- **已掌握:** Python/Java
-- 🔭 **正在学习:** Vue.js / Rust / C++ / Go / C# / Qt
-- 🌱 **11 个技术栈** 全栈开发中
-- 🎯 **2027年总目标:** AdventureX 2027 参赛
-- 📫 **联系我:** 15157706990@163.com / woshishanyideshifu@qq.com
+- A maimaiDX player
+- Like play War Thunder & World Tank Of biltzs
+- **Mastered:** Python/Java
+- 🔭 **Learning :** Vue.js / Rust / C++ / Go / C# / Qt
+- 🌱 **11 Techonology stacks** 全栈开发中
+- 🎯 **The 2027 Overall goal:** AdventureX 2027 参赛
+- 📫 **Contact me:** 15157706990@163.com / 15157706990shanyu@gmail.com
 
 ---
 
-### 🛠️ 技术栈
+### 🛠️  Techonology Stack
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -37,17 +36,17 @@
 </p>
 
 ---
-### 我最常用的IDE和系统 /System & IDE
+### Commonly used System & IDE
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=arch,apple,debian,hx,idea,linux,mint,neovim,pycharm,vim,vscode,vue,ubuntu,webstorm,windows">
+        <img src="https://skillicons.dev/icons?i=arch,apple,debian,haskell,idea,linux,mint,neovim,pycharm,vim,vscode,vue,ubuntu,webstorm,windows">
      </a>
 </p>
 
 ---
 
-### 📷 图库 / Gallery
+### 📷 Gallery
 
 <div align="center">
 
@@ -58,7 +57,7 @@
 
 ---
 
-### 👀 个人主页访问量 / Profile Views
+### 👀 Profile Views
 
 <div align="center">
 
