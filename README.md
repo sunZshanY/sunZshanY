@@ -31,7 +31,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,cs,clion,css,django,elysia,flask,git,html,java,js,md,nodejs,python,qt,rust,ts">
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,css,django,elysia,flask,git,html,java,js,md,nodejs,python,qt,rust,ts">
      </a>
 </p>
 
@@ -40,7 +40,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=arch,apple,debian,haskell,idea,linux,mint,neovim,pycharm,vim,vscode,vue,ubuntu,webstorm,windows">
+        <img src="https://skillicons.dev/icons?i=arch,apple,clion,debian,haskell,idea,linux,mint,neovim,pycharm,vim,vscode,vue,ubuntu,webstorm,windows">
      </a>
 </p>
 
