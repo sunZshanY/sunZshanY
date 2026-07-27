@@ -55,14 +55,12 @@
 
 </div>
 
-<!-- 连续提交天数 -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunZshanY&theme=tokyonight)
-
 
 ### 👀 Profile Views
 
 <div align="center">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunZshanY&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=Omia&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Omia?style=social)
 
