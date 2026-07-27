@@ -70,10 +70,6 @@
 <!-- 连续提交天数 -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunZshanY&theme=tokyonight)
 
-<!-- 奖杯展示 -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=sunZshanY&theme=tokyonight&column=7)
----
-
 ### 👀 Profile Views
 
 <div align="center">
