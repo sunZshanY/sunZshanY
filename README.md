@@ -47,20 +47,6 @@
 
 ---
 
-### 🎮 Projects
-
-<p align="center">
-  <a href="https://github.com/sunZshanY/sunomia">
-    <img src="https://img.shields.io/badge/🐍%20Snake-Snake%20Game-brightgreen?style=for-the-badge&logo=github" alt="Snake Game">
-  </a>
-</p>
-
-<p align="center">
-  <samp>A classic snake game built with vanilla HTML, CSS, and JavaScript — keyboard controls, score tracking, and real-time rendering all included.</samp>
-</p>
-
----
-
 ### 📷 Gallery
 
 <div align="center">
