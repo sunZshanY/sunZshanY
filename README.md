@@ -28,12 +28,20 @@
 
 ---
 
-### 🛠️ 技术栈以及我经常使用的编译器(~~或者是一些奇奇怪怪的东西~~) / 
-Tech Stack and IDE OR Something Strange things
+### 🛠️ 技术栈
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=arch,apple,bash,c,cpp,clion,css,discord,django,elysia,flask,git,github,gmail,html,idea,java,js,linux,md,mint,neovim,nodejs,npm,obsidian,pycharm,python,qt,ts,vim,vscode,vue,webstorm,windows">
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,clion,css,django,elysia,flask,git,html,java,js,md,nodejs,python,qt,rust,ts">
+     </a>
+</p>
+
+---
+### 我最常用的IDE和系统 /System & IDE
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=arch,apple,helix,idea,linux,mint,neovim,pycharm,vim,vscode,vue,ubuntu,webstorm,windows">
      </a>
 </p>
 
