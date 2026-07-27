@@ -58,13 +58,13 @@
 
 
 <!-- GitHub 统计卡片 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omia Sun&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunZshanY&show_icons=true&theme=tokyonight)
 
 <!-- 常用语言卡片 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omia Sun&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunZshanY&layout=compact&theme=tokyonight)
 
 <!-- 连续提交天数 -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omia Sun&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunZshanY&theme=tokyonight)
 
 
 ### 👀 Profile Views
