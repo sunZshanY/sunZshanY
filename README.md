@@ -55,14 +55,17 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
 <!-- GitHub 统计卡片 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunZshanY&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omia Sun&show_icons=true&theme=tokyonight)
+
+<!-- 常用语言卡片 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omia Sun&layout=compact&theme=tokyonight)
+
+<!-- 连续提交天数 -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omia Sun&theme=tokyonight)
+
 
 ### 👀 Profile Views
 
