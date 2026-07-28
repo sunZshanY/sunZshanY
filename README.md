@@ -36,7 +36,7 @@
 </p>
 
 ---
-### Commonly used System & IDE
+### 💻 Commonly used System & IDE
 
 <p align="center">
     <a href="https://skillicons.dev">
