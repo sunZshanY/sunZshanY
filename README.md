@@ -19,7 +19,7 @@
 
 - A maimaiDX player
 - Like play War Thunder & World Tank Of biltzs
-- **Mastered:** Python / Java / HTML / CSS
+- **Mastered:** Python / Java / HTML / CSS / Git
 - 🔭 **Learning:** Vue.js / Rust / C++ / Go / C# / Qt / PHP
 - 🌱 **12 Techonology stacks:** Full-stack development
 - 🎯 **The 2027 Overall goal:** Join the AdventureX 2027 
@@ -31,7 +31,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,css,git,html,java,js,md,nodejs,php,python,qt,rust,vue">
+        <img src="https://skillicons.dev/icons?i=css,git,html,java,md,python">
      </a>
 </p>
 
