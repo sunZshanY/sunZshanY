@@ -18,7 +18,7 @@
 ### 📖 About Me
 
 - A maimaiDX player
-- Like play War Thunder & World Tank Of biltzs
+- Like play War Thunder & Kards
 - **Mastered:** Python / Java / HTML / CSS / Git
 - 🔭 **Learning:** Vue.js / Rust / C++ / Go / C# / Qt / PHP
 - 🌱 **12 Techonology stacks:** Full-stack development
