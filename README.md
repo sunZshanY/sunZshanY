@@ -20,7 +20,8 @@
 - A maimaiDX player
 - Like play War Thunder & Kards
 - **Mastered:** Python / Java / HTML / CSS / Git
-- 🔭 **Learning:** Vue.js / Rust / C++ / Go / C# / Qt / PHP
+- **Familiar:** C / C++
+- 🔭 **Learning:** Lua / Rust / Go / PHP / TypeScript
 - 🌱 **12 Techonology stacks:** Full-stack development
 - 🎯 **The 2027 Overall goal:** Join the AdventureX 2027 
 - 📫 **Contact me:** woshishanyideshifu@qq.com
@@ -31,7 +32,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,css,git,html,java,js,ts,md,lua,nodejs,python">
+        <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cpp,lua,rust,go,php,ts,git,md">
      </a>
 </p>
 
