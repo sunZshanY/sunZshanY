@@ -17,11 +17,12 @@
 
 ### 📖 About Me
 
-- A maimaiDX player
-- Like play War Thunder & Kards
-- **Mastered:** Python / Java / HTML / CSS / Git
+- A maimaiDX player 始まるよう^*^
+- Like play War Thunder & Kards はいもちろんです
+- An Otaku and I like Tomorin (BangDream It's MyGO) Misaka Mikoto (某科学的超电磁炮)
+- **Mastered:** Python / Java / HTML / CSS / Git 
 - **Familiar:** C / C++
-- 🔭 **Learning:** Lua / Rust / Go / PHP / TypeScript
+- 🔭 **Learning:** Lua / Rust / Go / PHP / TypeScript / 
 - 🌱 **12 Techonology stacks:** Full-stack development
 - 🎯 **The 2027 Overall goal:** Join the AdventureX 2027 
 - 📫 **Contact me:** woshishanyideshifu@qq.com
@@ -32,7 +33,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cpp,lua,rust,go,php,ts,git,md">
+        <img src="https://skillicons.dev/icons?i=html,css,python,java,git,md">
      </a>
 </p>
 
@@ -41,7 +42,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=clion,idea,linux,neovim,pycharm,vim,vscode,ubuntu,windows">
+        <img src="https://skillicons.dev/icons?i=idea,debian,neovim,nano,pycharm,vim,vscode,ubuntu,windows">
      </a>
 </p>
 
