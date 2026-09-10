@@ -33,7 +33,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,python,java,git,md">
+        <img src="https://skillicons.dev/icons?i=html,css,python,java,git,md,lua,php,rust,ts,go">
      </a>
 </p>
 
@@ -42,7 +42,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=idea,debian,neovim,nano,pycharm,vim,vscode,ubuntu,windows">
+        <img src="https://skillicons.dev/icons?i=debian,neovim,pycharm,idea,clion,vim,vscode,windows">
      </a>
 </p>
 
