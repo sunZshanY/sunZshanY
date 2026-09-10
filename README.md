@@ -17,7 +17,7 @@
 
 ### 📖 About Me
 
-- A maimaiDX player 始まるよう^*^
+- A maimaiDX player (始まるよう^*^)
 - Like play War Thunder & Kards はいもちろんです
 - An Otaku and I like Tomorin (BangDream It's MyGO) Misaka Mikoto (某科学的超电磁炮)
 - **Mastered:** Python / Java / HTML / CSS / Git 
