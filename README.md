@@ -49,15 +49,7 @@
 
 ### 📷 Gallery
 
-<div align="center">
-
-<img src="images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260718130859_188_33.jpg" width="400" alt="Screenshot 1" />
-<img src="images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260718130903_189_33.jpg" width="400" alt="Screenshot 2" />
-
-</div>
+正在更新中.....
 
 ---
 
-### 👀 Profile Views
-
-正在更新中.....
