@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/📦%20仓库-Omia_Sun-blue?style=for-the-badge&logo=github)](https://github.com/sunZshanY/Omia_Sun)
+[![Repo](https://img.shields.io/badge/📦%20仓库-Omia_Sun-blue?style=for-the-badge&logo=github)](https://github.com/sunZshanY?tab=repositories)
 [![Profile](https://img.shields.io/badge/👤%20主页-sunZshanY-orange?style=for-the-badge&logo=github)](https://github.com/sunZshanY)
 
 </div>
