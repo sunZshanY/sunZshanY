@@ -33,7 +33,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,python,java,git,md,lua,php,rust,ts,go">
+        <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cpp,nodejs,vue,lua,php,rust,ts,go">
      </a>
 </p>
 
@@ -48,11 +48,8 @@
 
 ---
 
-### 📷 Gallery
-
-正在编写中.....
-
 ### 后日谈
 
-正在编写中.....
+<a href="https://www.bilibili.com/video/BV1CkN66eEtV/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-4bxql.1785224404990.731"> Yu Sun女装0721视频在线观看 </a>
+
 
