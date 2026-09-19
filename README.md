@@ -24,7 +24,7 @@
 - 🔭 **Learning:** Lua / Rust / Go / PHP / TypeScript / node.js / vue.js
 - 🌱 **14 Techonology stacks:** Full-stack development
 - 🎯 **The 2027 Overall goal:** Join the AdventureX 2027 
-- 📫 **Contact me:** woshishanyideshifu@qq.com & 15157706990@163.com
+- 📫 **Contact me:**  15157706990@163.com
 
 ---
 
