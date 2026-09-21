@@ -1,7 +1,9 @@
+<div align="center">
 # 👋 Hi there, My name is Yu Sun
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AADF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Java+%7C+HTML+%7C+CSS+%7C+Git;14+Tech+Stacks+and+Growing;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
+</div>
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/📦%20仓库-Omia_Sun-blue?style=for-the-badge&logo=github)](https://github.com/sunZshanY?tab=repositories)
