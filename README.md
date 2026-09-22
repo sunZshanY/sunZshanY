@@ -1,7 +1,8 @@
 <div align="center">
-<h1> 👋 Hi there, My name is Yu Sun </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AADF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Java+%7C+HTML+%7C+CSS+%7C+Git;14+Tech+Stacks+and+Growing;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+<img src="images/logo.png"><hr>
+
+<h1> 👋 Hi there, My name is Yu Sun </h1>
 
 </div>
 <div align="center">
@@ -16,38 +17,21 @@
 ### 📖 About Me
 
 - A maimaiDX player (始まるよう^*^)
-- Like play War Thunder & Kards はいもちろんです
+- Like play War Thunder & Kards / Blue Archive / Mush Dash / Zenless Zone Zero / The Ghost 
 - An Otaku and I like Tomorin and Misaka Mikoto
-- **Mastered:** Python / Java / HTML / CSS / Git 
-- **Familiar:** C / C++
-- 🔭 **Learning:** Lua / Rust / Go / PHP / TypeScript / node.js / vue.js
-- 🌱 **14 Techonology stacks:** Full-stack development
+- **Favourite Language for code:** Python / HTML / Rust / C /
 - 🎯 **The 2027 Overall goal:** Join the AdventureX 2027 
-- 📫 **Contact me:**  15157706990@163.com
+- 📫 **Contact me**  
+    1.**e-mail:** 15157706990@163.com
+    2.**discord:** sunmioko
 
 ---
 
-### 🛠️  Techonology Stack
-
+###  My Skills And None
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cpp,nodejs,vue,lua,php,rust,ts,go">
+        <img src="https://skillicons.dev/icons?i=,debian,discord,html,css,nodejs,vue,ts,go,python,java,rust,lua,php">
      </a>
 </p>
-
----
-### 💻 Commonly used System & IDE
-
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=debian,neovim,pycharm,idea,clion,vim,vscode,windows">
-     </a>
-</p>
-
----
-
-### 后日谈
-
-<a href="https://b23.tv/ZHyiVNH"> Yu Sun边女装边0721视频在线观看 </a>
 
 
