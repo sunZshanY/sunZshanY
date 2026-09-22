@@ -23,6 +23,7 @@
 - 🎯 **The 2027 Overall goal:** Join the AdventureX 2027 
 - 📫 **Contact me**  
     1.**e-mail:** 15157706990@163.com
+
     2.**discord:** sunmioko
 
 ---
