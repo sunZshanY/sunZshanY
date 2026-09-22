@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](images/logo.png "Yu Sun's vtube-logo")
+<img src"images/logo.png" width="50%">
 
 <h1> 👋 Hi there, My name is Yu Sun </h1>
 
