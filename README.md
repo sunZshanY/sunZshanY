@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src"images/logo.png" width="50%">
+<img src="logo.png" width="200" height="150">
 
 <h1> 👋 Hi there, My name is Yu Sun </h1>
 
 </div>
-<div align="center">
+
+<div align="left">
 
 <h2> 📖 About Me </h2>
 
