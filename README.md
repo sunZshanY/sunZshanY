@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" width="200" height="150">
+<img src="images/logo.png" width="200" height="150">
 
 <h1> 👋 Hi there, My name is Yu Sun </h1>
 
