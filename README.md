@@ -2,7 +2,7 @@
 
 <img src="images/logo.png" width="300" height="200">
 
-<h1> 👋 Hi there, My name is Yu Sun </h1>
+<h1> 👋 Hello World, My name is Yu Sun </h1>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <h2> 📖 About Me </h2>
 
-- A maimaiDX player (始まるよう^*^)
+- A maimaiDX player 
 - Like play War Thunder & Kards / Blue Archive / Mush Dash / Zenless Zone Zero / The Ghost 
 - An Otaku and I like Tomorin and Misaka Mikoto
 - **Favourite Language for code:** Python / HTML / Rust / C /
@@ -19,7 +19,6 @@
     1.**e-mail:** 15157706990@163.com
 
     2.**discord:** sunmioko
-
 
 </div>
 
