@@ -4,9 +4,6 @@
   
   # 👋 Hello，My name is Yu Sun 
   
-  <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=请输入文本+%7C+AI开发者+%7C+独立开发者;Hello world)](https://git.io/typing-svg)
-
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
     <p align="center">
@@ -18,9 +15,13 @@
 ## 关于我 (About ME):
 
   > An Full Stack coder
+ 
   > Play MaimaiDX / BlueArchive / Phigros / War Thunder / Kards / World Tank of Bultzs / Zenless Zone Zero / Mush Dash
+
   > An Otaku
+
   > **Favourite Languages: ** Python Java C HTML CSS
+
   > Like PHONK And Anime Music / KPOP / JPOP
 
 ### This is my skills and my tools
