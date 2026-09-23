@@ -16,11 +16,11 @@
 
   1. An Full Stack coder
  
-  2.Play MaimaiDX / BlueArchive / Phigros / War Thunder / Kards / World Tank of Bultzs / Zenless Zone Zero / Mush Dash
+  2. Play MaimaiDX / BlueArchive / Phigros / War Thunder / Kards / World Tank of Bultzs / Zenless Zone Zero / Mush Dash
 
-  3.An Otaku
+  3. An Otaku
 
-  4.**Favourite Languages: ** Python Java C HTML CSS
+  4. **Favourite Languages: ** Python Java C HTML CSS
 
   5. Like PHONK And Anime Music / KPOP / JPOP
 
