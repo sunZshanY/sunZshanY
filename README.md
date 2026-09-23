@@ -14,17 +14,17 @@
 
 ## 关于我 (About ME):
 
-  > An Full Stack coder
+  1. An Full Stack coder
  
-  > Play MaimaiDX / BlueArchive / Phigros / War Thunder / Kards / World Tank of Bultzs / Zenless Zone Zero / Mush Dash
+  2.Play MaimaiDX / BlueArchive / Phigros / War Thunder / Kards / World Tank of Bultzs / Zenless Zone Zero / Mush Dash
 
-  > An Otaku
+  3.An Otaku
 
-  > **Favourite Languages: ** Python Java C HTML CSS
+  4.**Favourite Languages: ** Python Java C HTML CSS
 
-  > Like PHONK And Anime Music / KPOP / JPOP
+  5. Like PHONK And Anime Music / KPOP / JPOP
 
-### This is my skills and my tools
+### 这是我的技术栈和工具 (This is my skills and my tools)
 
 <div align="center">
   <a href="https://skillicons.dev">
