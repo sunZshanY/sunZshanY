@@ -20,7 +20,7 @@
 
   3. An Otaku
 
-  4. **Favourite Languages: ** Python Java C HTML CSS
+  4. **Favourite Languages:** Python Java C HTML CSS
 
   5. Like PHONK And Anime Music / KPOP / JPOP
 
