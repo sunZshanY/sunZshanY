@@ -24,7 +24,7 @@
 
   5. Like PHONK And Anime Music / KPOP / JPOP
 
-### 这是我的技术栈和工具 (This is my skills and my tools)
+### 这是我的技术栈和工具 (This is my stacks and my tools)
 
 <div align="center">
   <a href="https://skillicons.dev">
