@@ -24,7 +24,7 @@
 
   5. Like PHONK And Anime Music / KPOP / JPOP
 
-  6. **Future: ** Going to the AdventureX 2027 And Have a Travel To Tokyo Akihabara
+  6. **Future:** Going to the AdventureX 2027 And Have a Travel To Tokyo Akihabara
 ### 这是我的技术栈和工具 (This is my stacks and my tools)
 
 <div align="center">
