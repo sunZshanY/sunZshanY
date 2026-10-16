@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,linux,html,css,js,lua,vscode,vim,neovim,github,gmail,discord" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,linux,lua,vscode,vim,neovim,github,gmail,discord" />
   </a>
 </div>
 
