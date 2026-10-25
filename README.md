@@ -33,7 +33,7 @@
 
   <img src="https://skillicons.dev/icons?i=twitter"> Omia Sun
 
-  <img src="https://skillicons.dev/icons?=gmail"> 15157706990shanyu@gmail.com
+  <img src="https://skillicons.dev/icons?i=gmail"> 15157706990shanyu@gmail.com
   
 </pre>
    
