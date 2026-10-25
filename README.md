@@ -25,7 +25,7 @@
   </a>
 </p>
 
-### 联系方式 (contant me)
+### 联系方式
 <pre>
   
   <img src="https://skillicons.dev/icons?i=github"> sunZshanY
