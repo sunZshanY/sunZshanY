@@ -27,15 +27,15 @@
 
 ### 联系方式 (contant me)
 <pre>
-   <img src="https://skillicons.dev/icons?i=github">: sunZshanY
-     
-    <img src="https://skillicons.dev/icons?i=discord">: Omia Yu
-    
-    <img src="https://skillicons.dev/icons?i=twitter">: Omia Sun
-    
-    <img src="https://skillicons.dev/icons?i=gmail">: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
+  <img src="https://skillicons.dev/icons?i=github"> sunZshanY
+  
+  <img src="https://skillicons.dev/icons?i=discord"> Omia Yu
 
-    QQ: 2650564337
+  <img src="https://skillicons.dev/icons?i=twitter"> Omia Sun
+
+  <img src="https://skillicons.dev/icons?=gmail"> 15157706990shanyu@gmail.com
+  
 </pre>
    
+  <p align="center"><b>よろしくお願いします</b></p>
 
