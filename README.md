@@ -1,4 +1,6 @@
-<img src="images/logo.png" width=200px height=200px align="center">
+<div align="center">
+  <img src="images/logo.png" width=200px height=200px>
+</div>
 <h1 align="center">Hello world 这里是Yu Sun</h1>
 
 是一名普普通通的**中职生**、会一点的Python和Java，以及前端技术(HTML+CSS+JS)
