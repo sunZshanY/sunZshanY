@@ -23,16 +23,4 @@
 
 #### 联系方式 (contant me)
 
-   <div class="contact" align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i="github"/>: sunZshanY
-      
-      <img src="https://skillicons.dev/icons?i="discord"/>: Omia Yu
-
-      <img src="https://skillicons.dev/icons?i="twitter"/>: Omia Sun
-
-      <img src="https://skillicons.dev/icons?i="gmail"/>: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
-
-    </a>
-    QQ: 2650564337
-  </div>
+  <!--主播去学校了，周五写-->
