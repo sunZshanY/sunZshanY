@@ -22,15 +22,18 @@
 </p>
 
 #### 联系方式 (contant me)
-   <p>
+   <div class="contact" align="center">
     <img src="https://skillicons.dev/icons?=github">: sunZshanY
+      
     <img src="https://skillicons.dev/icons?=discord">: Omia Yu
+
     <img src="https://skillicons.dev/icons?=twitter">: Omia Sun
+
     <img src="https://skillicons.dev/icons?=gmail">: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
 
     QQ: 2650564337
 
-  </p>
+  </div>
 <div align="center">
   ![images](image-1.png)
 </div>
