@@ -1,10 +1,10 @@
 # Hello world 这里是Yu Sun
 
 ---
-<pre>
+<p
   一名普普通通的中职生，喜欢写代码和FemBoy&Tomdoy的一个人 <!--是屎山代码吗? -->
-   梦想就是想成为一名图0程序员(Full Stack) 喵
-</pre>
+  梦想就是想成为一名图0程序员(Full Stack) 喵
+</p>
 ## 最热爱的东西&爱好
 
   - 魔爪
@@ -23,16 +23,17 @@
 
 #### 联系方式 (contant me)
    <div class="contact" align="left">
-    <img src="https://skillicons.dev/icons?i=github"/>: sunZshanY
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github"/>: sunZshanY
       
-    <img src="https://skillicons.dev/icons?i=discord"/>: Omia Yu
+      <img src="https://skillicons.dev/icons?i=discord"/>: Omia Yu
 
-    <img src="https://skillicons.dev/icons?i=twitter"/>: Omia Sun
+      <img src="https://skillicons.dev/icons?i=twitter"/>: Omia Sun
 
-    <img src="https://skillicons.dev/icons?i=gmail"/>: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
+      <img src="https://skillicons.dev/icons?i=gmail"/>: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
 
+    </a>
     QQ: 2650564337
-
   </div>
 <div align="center">
   ![images](image-1.png)
