@@ -16,20 +16,20 @@
 ### 这是我的技术栈
 
 <p align="center">
-  <a herf="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?=python,c,cpp,java,html,css,js,linux,debian,vscode,vim,neovim,git">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i="python,c,cpp,java,html,css,js,linux,vscode,vim,neovim" />
   </a>
 </p>
 
 #### 联系方式 (contant me)
-   <div class="contact" align="center">
-    <img src="https://skillicons.dev/icons?=github">: sunZshanY
+   <div class="contact" align="left">
+    <img src="https://skillicons.dev/icons?i=github"/>: sunZshanY
       
-    <img src="https://skillicons.dev/icons?=discord">: Omia Yu
+    <img src="https://skillicons.dev/icons?i=discord"/>: Omia Yu
 
-    <img src="https://skillicons.dev/icons?=twitter">: Omia Sun
+    <img src="https://skillicons.dev/icons?i=twitter"/>: Omia Sun
 
-    <img src="https://skillicons.dev/icons?=gmail">: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
+    <img src="https://skillicons.dev/icons?i=gmail"/>: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
 
     QQ: 2650564337
 
