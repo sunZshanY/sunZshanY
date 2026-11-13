@@ -1,7 +1,5 @@
 # こんにちは、こちらは Yu Sunです
 
----
-
   17岁，是名职高生 ------出自名言 “24歳、高校生です”
   是一名舞萌吃，也是一位Coder。（啊对对对对）
   以及喜欢玩魔方..... 
@@ -23,16 +21,18 @@
 </p>
 
 #### 联系方式 (contant me)
-   <p>
-
+<div align="left">
+  <a href="https://skillincons.dev">
     <img src="https://skillicons.dev/icons?i=github"/>: sunZshanY
     <img src="https://skillicons.dev/icons?i=discord"/>: Omia Yu
     <img src="https://skillicons.dev/icons?i=twitter"/>: Omia Sun
     <img src="https://skillicons.dev/icons?i=gmail"/>: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
 
     QQ: 2650564337
+  </a>
+</div>
 
-  </p>
+
 <div align="center>
   <p> —— 请多多关照喵❤️！</p>
 </div>
