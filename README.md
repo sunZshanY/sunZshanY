@@ -1,36 +1,38 @@
-# Hello world 这里是Yu Sun
+# こんにちは、こちらは Yu Sunです
 
 ---
-<pre>
-  一名普普通通的中职生，喜欢写代码和FemBoy&Tomdoy的一个人 <!--是屎山代码吗? -->
-   梦想就是想成为一名图0程序员(Full Stack) 喵
-</pre>
-## 最热爱的东西&爱好
 
-  - 魔爪
-  -
-  -
-  -
-  -
+  17岁，是名职高生 ------出自名言 “24歳、高校生です”
+  是一名舞萌吃，也是一位Coder。（啊对对对对）
+  以及喜欢玩魔方..... 
+
+## Hobby &Favourite Things
+
+  - 喝魔爪
+  - 玩 maimaiDX (舞萌DX)
+  - 写代码 (靠ai了说是bushi)
+  - 玩魔方 (最高纪录18-19s 忘了，但是未来计划要提升到10s)
+  - 压力马斯内
 
 ### 这是我的技术栈
 
 <p align="center">
   <a herf="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?=python,c,cpp,java,html,css,js,linux,debian,vscode,vim,neovim,git">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,linux,debian,vscode,vim,neovim,git" />
   </a>
 </p>
 
 #### 联系方式 (contant me)
    <p>
-    <img src="https://skillicons.dev/icons?=github">: sunZshanY
-    <img src="https://skillicons.dev/icons?=discord">: Omia Yu
-    <img src="https://skillicons.dev/icons?=twitter">: Omia Sun
-    <img src="https://skillicons.dev/icons?=gmail">: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
+
+    <img src="https://skillicons.dev/icons?i=github"/>: sunZshanY
+    <img src="https://skillicons.dev/icons?i=discord"/>: Omia Yu
+    <img src="https://skillicons.dev/icons?i=twitter"/>: Omia Sun
+    <img src="https://skillicons.dev/icons?i=gmail"/>: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
 
     QQ: 2650564337
 
   </p>
-<div align="center">
-  ![images](image-1.png)
+<div align="center>
+  <p> —— 请多多关照喵❤️！</p>
 </div>
