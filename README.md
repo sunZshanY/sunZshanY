@@ -21,21 +21,15 @@
 </p>
 
 #### 联系方式 (contant me)
-<div align="left">
-  <a href="https://skillincons.dev">
-    
-    <img src="https://skillicons.dev/icons?i=github"/>: sunZshanY
-    
-    <img src="https://skillicons.dev/icons?i=discord"/>: Omia Yu
-    
-    <img src="https://skillicons.dev/icons?i=twitter"/>: Omia Sun
-    
-    <img src="https://skillicons.dev/icons?i=gmail"/>: <a href="mailto:15157706990shanyu@gmail.com"> Gmail </a>
 
-    QQ: 2650564337
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter" />: @MikotoSun128376 <br>
+    <img src="https://skillicons.dev/icons?i=github" />: sunZshanY <br>
+    <img src="https://skillicons.dev/icons?=discord" />: sunmioko & Omia Yu <br>
+    <img src="https://skillicons.dev/icons?=gmail" />: 15157706990shanyu@gmail.com
   </a>
-</div>
-
+</p>
 
 <div align="center>
   <p> —— 请多多关照喵❤️！</p>
