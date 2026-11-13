@@ -22,12 +22,12 @@
 
 #### 联系方式 (contant me)
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=twitter" />: @MikotoSun128376 <br>
     <img src="https://skillicons.dev/icons?i=github" />: sunZshanY <br>
-    <img src="https://skillicons.dev/icons?=discord" />: sunmioko & Omia Yu <br>
-    <img src="https://skillicons.dev/icons?=gmail" />: 15157706990shanyu@gmail.com
+    <img src="https://skillicons.dev/icons?i=discord" />: sunmioko & Omia Yu <br>
+    <img src="https://skillicons.dev/icons?i=gmail" />: 15157706990shanyu@gmail.com
   </a>
 </p>
 
