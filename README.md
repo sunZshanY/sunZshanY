@@ -24,9 +24,9 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter" /> <p>: @MikotoSun128376 </p><br>
-    <img src="https://skillicons.dev/icons?i=github" /> <p>: sunZshanY </p><br>
-    <img src="https://skillicons.dev/icons?i=discord" /> <p>: sunmioko & Omia Yu </p><br>
+    <img src="https://skillicons.dev/icons?i=twitter" /> <p>: @MikotoSun128376 </p>
+    <img src="https://skillicons.dev/icons?i=github" /> <p>: sunZshanY </p>
+    <img src="https://skillicons.dev/icons?i=discord" /> <p>: sunmioko & Omia Yu </p>
     <img src="https://skillicons.dev/icons?i=gmail" /> <p>: 15157706990shanyu@gmail.com</p>
   </a>
 </p>
