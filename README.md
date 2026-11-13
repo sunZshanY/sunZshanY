@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logo.png">
+  <img src="images/logo.png" width:100px height:100px>
   <h1> こんにちは、こちらは Yu Sunです </h1>
 </div>
 
