@@ -37,8 +37,6 @@
   </a>
 </p>
 
-<div align="center>
   <p> —— 请多多关照喵❤️！</p>
-</div>
 
 
