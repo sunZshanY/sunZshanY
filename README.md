@@ -2,25 +2,25 @@
   <img src="images/logo.png" width="300px" height="300px">
   <h1> こんにちは、こちらは Yu Sunです </h1>
 </div>
-<h3 align="center">！！！例行说明，主播现已将系统更换至debian13所使用，可能会有些项目将会停止维护，望周知！！！</h3>
 
-  你也可以叫我Omia Yu & Yu Sun
+  U can call me Omia Yu & Yu Sun
   
-  本人17岁，是名职高生 ------出自名言 “24歳、高校生です”
+  17 year's old，是名职高生 
+
+        ------出自仲夏夜之梦(bushi)  “24歳、高校生です”
   
-  是一名舞萌吃，也是一位Coder。（啊对对对对）
-  
-  以及喜欢玩魔方..... 
+  一名舞萌吃  <!--A maiamiDX player-->
 
 ## Hobby &Favourite Things
 
-  - 喝魔爪
-  - 玩 maimaiDX (舞萌DX)
-  - 写代码 (靠ai了说是bushi)
-  - 玩魔方 (最高纪录18-19s 忘了，但是未来计划要提升到10s)
-  - 压力马斯内
+- Like to drink some Monster (The Black Monster is very perfect)
+- Drink some cola & coffee (Drink some lucky coffee)
+- Play some maimaiDX(Rating: 13379) & Arknights & Kards & Mush Dash & Arcaea .....
+- Coding BTW (bushi.....)
+- I only love debian distro BTW
+- Favourite songs is After Hours --by. The Weekend
 
-### 这是我的技术栈
+### This is My stack
 
 <p align="center">
   <a herf="https://skillicons.dev">
@@ -41,4 +41,11 @@
 
   <p> —— 请多多关照喵❤️！</p>
 
+#### 更新公告
 
+## 更新: 2026.11.16 22:22(UTC+8)
+<p align="left">！！！例行说明，主播现已将系统更换至debian13所使用，可能会有些项目将会停止维护，望周知！！！</p>
+
+## 更新(Update): 2026-11-20 23:49(UTC+8)
+
+<p align="left">feat. 将一部分内容设置成英文，并添加了更新公告板块</p>
