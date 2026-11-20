@@ -5,9 +5,7 @@
 
   U can call me Omia Yu & Yu Sun
   
-  17 year's old，是名职高生 
-
-        ------出自仲夏夜之梦(bushi)  “24歳、高校生です”
+  17 year's old，是名职高生  ------出自仲夏夜之梦(bushi)  “24歳、高校生です”
   
   一名舞萌吃  <!--A maiamiDX player-->
 
